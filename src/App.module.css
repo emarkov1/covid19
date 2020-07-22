@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(250,250,250);
+    padding-bottom: 30px;
+}
+.app_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.image{
+    width: 400px;
+    margin-top: 50px;
+    max-width: 80%;
+}
+@media(max-width:770px){
+    .app_container{
+        margin: 0 10%;
+    }
+}
