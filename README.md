@@ -1,3 +1,9 @@
+You can see live app by visiting http://covid.evgeniimarkov.com/
+
+require axios react-chartjs-2 react-countup
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
